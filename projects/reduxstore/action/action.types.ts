@@ -1,0 +1,3 @@
+export const ADD_SEASONS = 'ADE_SEASONS'
+export const REMOVE_SEASONS = 'REMOVE_SEASONS'
+export const MARK_COMPLETED = 'MARK_COMPLETED'
